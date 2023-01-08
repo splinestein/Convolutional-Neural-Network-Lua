@@ -1,5 +1,5 @@
 # Convolutional-Neural-Network-Lua
-## Convolutional Neural Network in Lua, brought to you by Github user Anthon98.
+## Convolutional Neural Network in Lua, brought to you by Github user splinestein.
 
 <img src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/8/1/d/81da87f6108f57be95eefaf713da44ca7927ebaa.gif" width="325" height="250"/>
 
